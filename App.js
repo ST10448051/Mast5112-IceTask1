@@ -66,7 +66,7 @@ const styles = StyleSheet.create({
     color: '#800080', // Using the RGB value for purple
     fontWeight: 'bold',
     fontSize: 28,
-    textAlign: 'center', // corrected to lowercase 't'
+    textAlign: 'center', 
   },
   headingText: {
     marginTop: 20,
